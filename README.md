@@ -1,4 +1,4 @@
-# un-datathon2024
+# Terra Brasilis at un-datathon2024
 Digital Nomads insights about Sustainable Tourism in Urban Areas of Medellin 
 
 **Where:** Medellín, a Special District of Science, Technology, and Innovation of Collombia
