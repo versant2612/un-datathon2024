@@ -16,4 +16,3 @@
 * Number of tourist attractions
 * Volunteer work sites
 * Number of free wifi points
-* Number of metro stations
