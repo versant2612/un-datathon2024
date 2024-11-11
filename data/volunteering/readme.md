@@ -2,7 +2,7 @@
 
 **Source:** search with the keywords _volunteering_ and _medellin_ on Google Maps
 
-**Steps**
+### Steps ###
 
 * Open **My Maps**
 * Create a new map
@@ -15,3 +15,7 @@
 * Open in MapViewer
 * Add the Communes layer
 * Count the points by commune
+
+### Map ###
+
+[My Map](https://www.google.com/maps/d/u/1/edit?mid=1jzDQgAmxhTzWrctWUPthKutFtX8c-Bg&usp=sharing)
