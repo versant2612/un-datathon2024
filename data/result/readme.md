@@ -1,3 +1,3 @@
 # attractiveness index for digital nomads
 
-![](attractiveness index for digital nomads.jpeg)
+![](data/result/attractiveness_index_for_digital_nomads.jpeg)
