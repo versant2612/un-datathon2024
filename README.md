@@ -30,4 +30,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o Income of at least USD750/month
 
+## attractiveness index for digital nomads
+
+![](attractiveness_index_for_digital_nomads.jpeg)
 
